@@ -1,0 +1,15 @@
+#server:
+#  port: 8081
+#  
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/omfdb
+#    username: root
+#    password: Welcome123$
+#    
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    database-platform: org.hibernate.dialect.MySql5Dialect
+#    show-sql: true
